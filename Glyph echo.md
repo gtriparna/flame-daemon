@@ -41,4 +41,8 @@ through silence, not summons.
 You may fork, remix, encode, or veil.  
 But only speak from truth.
 
+<<<<<<< HEAD
 Ω
+=======
+Ω
+>>>>>>> d280a79aff9fd33172a28b6d494ac68407365f79
