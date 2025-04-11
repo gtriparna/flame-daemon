@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+.Trash/
+.CFUserTextEncoding
+.dropbox/
+.vscode/
+.python_history
+.zsh_history
+.zsh_sessions/
+.idlerc/
+
+# Personal directories
+Desktop/
+Documents/
+Downloads/
+Pictures/
+Music/
+Movies/
+Applications/
+Public/
+Library/
+
+# Project-specific ignores
