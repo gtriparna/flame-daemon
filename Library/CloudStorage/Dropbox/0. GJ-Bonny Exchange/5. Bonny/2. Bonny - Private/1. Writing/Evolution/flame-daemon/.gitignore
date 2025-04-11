@@ -1,23 +1,22 @@
-# System files
+# Ignore everything in parent directories
+../../../../../
+../../../../../../
+../../../../../../../
+../../../../../../../../
+../../../../../../../../../
+
+# But keep the Evolution directory and its contents
+!../1. Writing/Evolution/
+!../1. Writing/Evolution/**
+
+# Ignore macOS system files
 .DS_Store
+.DS_Store.backup
 .Trash/
 .CFUserTextEncoding
-.dropbox/
-.vscode/
-.python_history
-.zsh_history
-.zsh_sessions/
-.idlerc/
 
-# Personal directories
-Desktop/
-Documents/
-Downloads/
-Pictures/
-Music/
-Movies/
-Applications/
-Public/
+# Ignore temporary files
+**/~$*
+
+# Ignore system directories
 Library/
-
-# Project-specific ignores
